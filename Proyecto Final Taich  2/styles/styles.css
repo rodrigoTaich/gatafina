@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(9, 8, 9);
+
+}
+h1{
+    color: rgb(232, 238, 244);
+}
+h2{
+    color: rgb(232, 238, 244);
+}
+h3{
+    color: rgb(232, 238, 244);
+}
+h4{
+    color: rgb(232, 238, 244);
+}
+h5{
+    color: rgb(232, 238, 244);
+}
+p{
+    color: rgb(232, 238, 244);
+}
+
+a {
+    
+    text-decoration: none;
+    
+}
+footer {
+    background-color: rgb(232, 238, 244);
+}
+.pp:hover {
+    font-size: 110%;
+
+    
+}
+
